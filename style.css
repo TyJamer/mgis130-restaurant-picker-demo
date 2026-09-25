@@ -4,13 +4,13 @@
    A commit that says "Switch accent to blue" is a real commit.
    ========================================================== */
 :root {
-    --accent: #F76902;        /* buttons, highlights. Try #009CBD or #7D55C7 */
-    --ink: #1F1F1F;           /* main text */
-    --muted: #6B7280;         /* secondary text */
-    --paper: #FFFFFF;         /* the card */
-    --background: #F3F4F6;    /* the page behind the card */
-    --line: #E5E7EB;          /* borders and rules */
-    --radius: 6px;            /* corner rounding, everywhere */
+    --accent: #4A6B82;        /* Slate Blue - soft, muted focal accent */
+    --ink: #1E252B;           /* Deep Charcoal - cool undertone body text */
+    --muted: #64748B;         /* Slate Grey - subtle secondary text */
+    --paper: #F8FAFC;         /* Off-White Slate - crisp card surface */
+    --background: #E2E8F0;    /* Cool Mist - page canvas background */
+    --line: #CBD5E1;          /* Frost Border - clean divider rules */
+    --radius: 6px;            /* Border radius */
     --font: "Segoe UI", system-ui, -apple-system, Helvetica, Arial, sans-serif;
 }
 
