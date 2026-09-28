@@ -10,7 +10,7 @@
     --paper: #F8FAFC;         /* Off-White Slate - crisp card surface */
     --background: #E2E8F0;    /* Cool Mist - page canvas background */
     --line: #CBD5E1;          /* Frost Border - clean divider rules */
-    --radius: 6px;            /* Border radius */
+    --radius: 16px;            /* Border radius */
     --font: "Segoe UI", system-ui, -apple-system, Helvetica, Arial, sans-serif;
 }
 
